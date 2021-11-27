@@ -7,6 +7,7 @@
 - [setState后是异步还是同步更新this.state](./react/setState后是异步还是同步更新this.state.md)
 - [concurrent模式](./react/concurrent模式.md)
 - [react新旧架构及其对比](./react/react新旧架构及其对比.md)
+- [状态更新流程](./react/状态更新流程.md)
 ### hooks
 - [hooks为什么不能用在判断中](./react/hooks/hooks为什么不能用在判断中.md)
 
