@@ -9,4 +9,4 @@ const Hello = () => {
   const [loading, setLoading] = React.useState(false)
 }
 ```
-![./images/hooks为什么不能用在判断中-1.png]
+![](./images/hooks为什么不能用在判断中-1.png)
