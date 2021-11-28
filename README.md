@@ -8,6 +8,7 @@
 - [concurrent模式](./react/concurrent模式.md)
 - [react新旧架构及其对比](./react/react新旧架构及其对比.md)
 - [状态更新流程](./react/状态更新流程.md)
+- [hoc的两种类型](./react/hoc的两种类型.md)
 ### hooks
 - [hooks为什么不能用在判断中](./react/hooks/hooks为什么不能用在判断中.md)
 
