@@ -10,7 +10,7 @@
 #### 单节点diff
 key和dom type一致才能复用
 
-#### 多阶段diff
+#### 多节点diff
 - 遍历newChildren和oldFiber
 - 不可使用双指针，因为fiber数据是单链表形式存储的
 - 更新操作的频率高：第一轮处理更新，第二轮处理非更新
